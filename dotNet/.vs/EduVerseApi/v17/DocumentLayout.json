@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|d:\\cdac projects\\major project\\edu_verse_react_client\\dotnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|d:\\cdac projects\\major project\\edu_verse_react_client\\dotnet\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EduVerseDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|d:\\cdac projects\\major project\\edu_verse_react_client\\dotnet\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|d:\\cdac projects\\major project\\edu_verse_react_client\\dotnet\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|d:\\cdac projects\\major project\\edu_verse_react_client\\dotnet\\repositories\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:repositories\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAowKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:19:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EduVerseDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-19T08:07:40.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:57:09.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Repositories\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\NoteRepository.cs",
+              "ToolTip": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Repositories\\NoteRepository.cs",
+              "RelativeToolTip": "Repositories\\NoteRepository.cs",
+              "ViewState": "AQIAAAcAAACgmZmZmZkhwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:41:27.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INoteRepository.cs",
+              "DocumentMoniker": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Repositories\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\INoteRepository.cs",
+              "ToolTip": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Repositories\\INoteRepository.cs",
+              "RelativeToolTip": "Repositories\\INoteRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:36:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "D:\\CDAC Projects\\Major Project\\edu_verse_react_client\\dotNet\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:32:53.629Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
